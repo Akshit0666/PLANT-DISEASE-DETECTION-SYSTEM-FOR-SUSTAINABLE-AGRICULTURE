@@ -16,5 +16,5 @@ keras
 opencv_python_headless
 
 ## Author 
-Akshit Singh
+Akshit Singh,
 Guide - P RAJA 
